@@ -1,0 +1,31 @@
+    /* this is class one css  */
+h1{
+  color:blue;
+  border: 10px solid red;
+  background-color: black;
+}
+p{
+  font-size: 20px;
+  color: green;
+  padding:10px 10px 10px 50px;
+  border: 2px solid gray;
+  border-bottom-left-radius:100px;
+  border-top-right-radius:100px;
+  width: 400px;
+  margin-left: 100px;
+}
+
+
+/* ending of  class one css  */
+
+
+
+/* class two css starting  */
+
+
+
+
+
+
+
+/* ending of class two css */
